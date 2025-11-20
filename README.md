@@ -41,7 +41,8 @@ A modern, responsive web application showcasing the rich culture, heritage, fest
   - Smooth transitions and micro-interactions
   - Live data with real images
  
-## 🎨 Link to Visit :  [Click Here]https://incredible-india-snowy.vercel.app/
+## 🎨 Link to Visit : 
+[Click Here to Visit](https://incredible-india-snowy.vercel.app/)
 
 ## 🎨 Design System
 
